@@ -34,3 +34,6 @@ Observed error include:
 - Go 1.22+
 - `go` and `git` installed
 
+## Run
+
+`go run .`
