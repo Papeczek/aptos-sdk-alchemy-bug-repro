@@ -36,4 +36,6 @@ Observed error include:
 
 ## Run
 
-`go run .`
+1. Update `.env` file with working Alchemy api key
+
+2. `go run .`
